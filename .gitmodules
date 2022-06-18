@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "clustermq"]
+	path = clustermq
+	url = https://github.com/mschubert/clustermq
+	shallow = true
+	registered = true
+[submodule "narray"]
+	path = narray
+	url = https://github.com/mschubert/narray
+	shallow = true
+	registered = true

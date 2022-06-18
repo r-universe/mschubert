@@ -1,0 +1,10 @@
+[
+  {
+    "package": "clustermq",
+    "oncran": true
+  },
+  {
+    "package": "narray",
+    "oncran": true
+  }
+]
