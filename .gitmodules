@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "clustermq"]
+	path = clustermq
+	url = https://github.com/mschubert/clustermq
 [submodule "narray"]
 	path = narray
 	url = https://github.com/mschubert/narray
